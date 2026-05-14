@@ -6,7 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace finalproje2_beyza_ugur_21907047
+namespace FlightReservationSystem
 {
     public partial class Component1 : Component
     {

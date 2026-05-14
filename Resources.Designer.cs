@@ -9,7 +9,7 @@
 //------------------------------------------------------------------------------
 
 
-namespace finalproje2_beyza_ugur_21907047.Properties
+namespace FlightReservationSystem.Properties
 {
     /// <summary>
     ///   Yerelleştirilmiş dizeleri vs. aramak için türü kesin belirlenmiş bir kaynak sınıfı.

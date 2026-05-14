@@ -9,7 +9,7 @@
 //------------------------------------------------------------------------------
 
 
-namespace finalproje2_beyza_ugur_21907047.Properties
+namespace FlightReservationSystem.Properties
 {
     [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
     [global::System.CodeDom.Compiler.GeneratedCodeAttribute("Microsoft.VisualStudio.Editors.SettingsDesigner.SettingsSingleFileGenerator", "11.0.0.0")]

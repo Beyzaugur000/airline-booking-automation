@@ -1,5 +1,5 @@
 ﻿
-namespace finalproje2_beyza_ugur_21907047
+namespace FlightReservationSystem
 {
     partial class Component3
     {

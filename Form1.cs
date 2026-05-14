@@ -10,7 +10,7 @@ using System.Windows.Forms;
 using System.Data.OleDb;
 using Excel = Microsoft.Office.Interop.Excel;
 using Microsoft.Office.Interop.Excel;
-namespace finalproje2_beyza_ugur_21907047
+namespace FlightReservationSystem
 {
     public partial class Form1 : Form
     {

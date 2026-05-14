@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace finalproje2_beyza_ugur_21907047
+namespace FlightReservationSystem
 {
     static class Program
     {
